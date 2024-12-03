@@ -1,19 +1,24 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-       List<List<Integer>> list=new ArrayList<>();
-       func(list,nums,0,new ArrayList<Integer>());
-       return list; 
+        HashSet<List<Integer>> ans = new HashSet<>();
+        List<List<Integer>> res = new ArrayList<>();
+        HashSet<List<Integer>> set = helper(nums, 0, new ArrayList<>(), ans);
+        for(List<Integer> l : set) {
+            res.add(new ArrayList<>(l));
+        }
+        return res; 
     }
 
-    public static void func(List<List<Integer>> list , int[] nums , int i , ArrayList<Integer> temp) {
-
-        list.add(new ArrayList<>(temp));
-        for(int j=i;j<nums.length;j++) {
-        if(j>i && nums[j]==nums[j-1]) continue;
-        temp.add(nums[j]);
-        func(list,nums,j+1,temp);
-        temp.remove(temp.size()-1);
+    private HashSet<List<Integer>> helper(int[] nums, int i, List<Integer> list, HashSet<List<Integer>> ans) {
+        if(i >= nums.length) {
+            ans.add(new ArrayList<>(list));
+            return ans;
         }
+        list.add(nums[i]);
+        helper(nums, i+1, list, ans);
+        list.remove(list.size() - 1);
+        helper(nums, i+1, list, ans);
+        return ans;
     }
 }
