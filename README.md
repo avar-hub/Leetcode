@@ -18,9 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
