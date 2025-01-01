@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/avar-hub/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avar-hub/Leetcode/tree/master/0135-candy) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/avar-hub/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/avar-hub/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
