@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/avar-hub/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/avar-hub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/avar-hub/Leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/avar-hub/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/avar-hub/Leetcode/tree/master/0135-candy) |
