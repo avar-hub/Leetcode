@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/avar-hub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/avar-hub/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/avar-hub/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/avar-hub/Leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/avar-hub/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/avar-hub/Leetcode/tree/master/0274-h-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
