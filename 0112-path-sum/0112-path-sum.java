@@ -29,7 +29,7 @@ class Solution {
             return true;
         }
         if(root.left == null && root.right == null && targetSum != 0) {
-            targetSum += root.val;
+            // targetSum += root.val;
             return false;
         }
 
