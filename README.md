@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avar-hub/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/avar-hub/Leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
