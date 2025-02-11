@@ -28,10 +28,6 @@ class Solution {
         if(root.left == null && root.right == null && targetSum == 0) {
             return true;
         }
-        if(root.left == null && root.right == null && targetSum != 0) {
-            // targetSum += root.val;
-            return false;
-        }
 
         boolean left = helper(root.left, targetSum );
         boolean right = helper(root.right, targetSum);
