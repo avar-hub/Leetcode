@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/avar-hub/Leetcode/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/avar-hub/Leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/avar-hub/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/avar-hub/Leetcode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avar-hub/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/avar-hub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/avar-hub/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/avar-hub/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
