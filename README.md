@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/avar-hub/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avar-hub/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/avar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/avar-hub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/avar-hub/Leetcode/tree/master/0125-valid-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/avar-hub/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/avar-hub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/avar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/avar-hub/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/avar-hub/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/avar-hub/Leetcode/tree/master/0300-longest-increasing-subsequence) |
