@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/avar-hub/Leetcode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/avar-hub/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
