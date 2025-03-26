@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/avar-hub/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/avar-hub/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/avar-hub/Leetcode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avar-hub/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/avar-hub/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3430-count-days-without-meetings](https://github.com/avar-hub/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/avar-hub/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/avar-hub/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/avar-hub/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/avar-hub/Leetcode/tree/master/0289-game-of-life) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
