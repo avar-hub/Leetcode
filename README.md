@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/avar-hub/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/avar-hub/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/avar-hub/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
