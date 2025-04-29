@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/avar-hub/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/avar-hub/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/avar-hub/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/avar-hub/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Simulation
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/avar-hub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/avar-hub/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/avar-hub/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/avar-hub/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
