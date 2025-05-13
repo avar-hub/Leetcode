@@ -14,7 +14,7 @@ class Solution {
             for (int i = 0; i < 26; i++) {
                 char ch = (char) (i + 'a');
                 int freq = mp[i];
-
+                if (freq == 0) continue;
                 if (ch != 'z') {
                     temp[(ch + 1) - 'a'] = (temp[(ch + 1) - 'a'] + freq) % M;
                 } else {
