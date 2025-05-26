@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/avar-hub/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/avar-hub/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/avar-hub/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avar-hub/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avar-hub/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/avar-hub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/avar-hub/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/avar-hub/Leetcode/tree/master/0274-h-index) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avar-hub/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
@@ -247,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
