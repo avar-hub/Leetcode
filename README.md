@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/avar-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avar-hub/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/avar-hub/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/avar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/avar-hub/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/avar-hub/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avar-hub/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/avar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/avar-hub/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/avar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/avar-hub/Leetcode/tree/master/0289-game-of-life) |
