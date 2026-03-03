@@ -5,11 +5,7 @@ class Solution {
             int water = Math.min(height[i], height[j]) * (j - i);
             container = Math.max(container, water);
             if(height[i] < height[j]) i++;
-            else if(height[i] > height[j]) j--;
-            else {
-                i++;
-                j--;
-            }
+            else  j--;
         }
         return container;
     }
