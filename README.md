@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avar-hub/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/avar-hub/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/avar-hub/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/avar-hub/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/avar-hub/Leetcode/tree/master/0125-valid-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/avar-hub/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/avar-hub/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/avar-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/avar-hub/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/avar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/avar-hub/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/avar-hub/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avar-hub/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/avar-hub/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/avar-hub/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avar-hub/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/avar-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avar-hub/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/avar-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/avar-hub/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/avar-hub/Leetcode/tree/master/0289-game-of-life) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/avar-hub/Leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/avar-hub/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
