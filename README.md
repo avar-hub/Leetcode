@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/avar-hub/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1025-minimum-cost-for-tickets](https://github.com/avar-hub/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avar-hub/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/avar-hub/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/avar-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/avar-hub/Leetcode/tree/master/0274-h-index) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/avar-hub/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
