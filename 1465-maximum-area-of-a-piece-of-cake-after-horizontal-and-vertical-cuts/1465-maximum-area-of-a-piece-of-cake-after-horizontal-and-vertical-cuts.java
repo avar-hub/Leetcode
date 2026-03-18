@@ -2,29 +2,21 @@ class Solution {
     public int maxArea(int h, int w, int[] horizontalCuts, int[] verticalCuts) {
         Arrays.sort(horizontalCuts);
         Arrays.sort(verticalCuts);
-        int[] horizontalCutsAreaDiff = new int[horizontalCuts.length + 1];
-        int[] verticalCutsAreaDiff = new int[verticalCuts.length + 1];
-        horizontalCutsAreaDiff[0] = horizontalCuts[0];
-        verticalCutsAreaDiff[0] = verticalCuts[0];
-        int i = 1;
-        while (i < horizontalCuts.length) {
-            horizontalCutsAreaDiff[i] = horizontalCuts[i] - horizontalCuts[i - 1];
-            i++; 
+
+        // max horizontal gap
+        int maxH = horizontalCuts[0];
+        for (int i = 1; i < horizontalCuts.length; i++) {
+            maxH = Math.max(maxH, horizontalCuts[i] - horizontalCuts[i - 1]);
         }
-        horizontalCutsAreaDiff[i] = h - horizontalCuts[horizontalCuts.length - 1];
-        i = 1;
-        while (i < verticalCuts.length) {
-            verticalCutsAreaDiff[i] = verticalCuts[i] - verticalCuts[i - 1];
-            i++;
+        maxH = Math.max(maxH, h - horizontalCuts[horizontalCuts.length - 1]);
+
+        // max vertical gap
+        int maxV = verticalCuts[0];
+        for (int i = 1; i < verticalCuts.length; i++) {
+            maxV = Math.max(maxV, verticalCuts[i] - verticalCuts[i - 1]);
         }
-        verticalCutsAreaDiff[i] = w - verticalCuts[verticalCuts.length - 1]; 
+        maxV = Math.max(maxV, w - verticalCuts[verticalCuts.length - 1]);
 
-        Arrays.sort(horizontalCutsAreaDiff); 
-        Arrays.sort(verticalCutsAreaDiff);
-
-        long maxH = horizontalCutsAreaDiff[horizontalCutsAreaDiff.length - 1];
-        long maxV = verticalCutsAreaDiff[verticalCutsAreaDiff.length - 1];
-
-        return (int)((maxH * maxV) % 1000000007);
+        return (int)((long) maxH * maxV % 1000000007);
     }
 }
