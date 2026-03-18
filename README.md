@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/avar-hub/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/avar-hub/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avar-hub/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/avar-hub/Leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/avar-hub/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/avar-hub/Leetcode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avar-hub/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/avar-hub/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/avar-hub/Leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/avar-hub/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2681-put-marbles-in-bags](https://github.com/avar-hub/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/avar-hub/Leetcode/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avar-hub/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/avar-hub/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/avar-hub/Leetcode/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2681-put-marbles-in-bags](https://github.com/avar-hub/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/avar-hub/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
