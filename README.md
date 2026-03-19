@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/avar-hub/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/avar-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/avar-hub/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/avar-hub/Leetcode/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/avar-hub/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/avar-hub/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
@@ -278,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avar-hub/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/avar-hub/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/avar-hub/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/avar-hub/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/avar-hub/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
