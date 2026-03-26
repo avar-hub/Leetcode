@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/avar-hub/Leetcode/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/avar-hub/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/avar-hub/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1025-minimum-cost-for-tickets](https://github.com/avar-hub/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1169-invalid-transactions](https://github.com/avar-hub/Leetcode/tree/master/1169-invalid-transactions) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/avar-hub/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/avar-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/avar-hub/Leetcode/tree/master/0740-delete-and-earn) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/avar-hub/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/avar-hub/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1169-invalid-transactions](https://github.com/avar-hub/Leetcode/tree/master/1169-invalid-transactions) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/avar-hub/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/avar-hub/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avar-hub/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/avar-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/avar-hub/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avar-hub/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting Sort
 |  |
